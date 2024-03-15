@@ -1,0 +1,5 @@
+x=int(input("Digite um Número:        "))
+y=int(input("Digite outro Número:     "))
+print("A soma dos dois números é igual:  ", (x+y))
+print("A diferença dos números é igual:  ", (x-y))
+print("A divisão dos números é igual:  ", (x/y))
